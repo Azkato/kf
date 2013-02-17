@@ -1,4 +1,5 @@
 KRF - Kidip Framework
 ===============
 
-Version : Kwanza
+Version : 1.0
+Codename : Kwanza
