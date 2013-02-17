@@ -1,2 +1,4 @@
-psychic-hipster
+KRF - Kidip Framework
 ===============
+
+Version : Kwanza
